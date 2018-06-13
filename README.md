@@ -1,5 +1,8 @@
 # ionic2-lock-screen
 
+## ***Note***
+There are some compatibility issues with the AngularJS version 5 or later. Kinda busy in work these days. I will try to fix it asap.Thank you for using this.
+
 ## Intro
 
 A rewrote and a retouched version of [ionic-lock-screen](https://github.com/AlexDisler/ionic-lock-screen) [https://github.com/AlexDisler/ionic-lock-screen] for AngularJS 2 and Ionic 2. 
